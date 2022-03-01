@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The musical shepeherdess, or, Dorinda's lamentation for the loss of Amintas Amintas all Arcadia's glory was, a youth so sweet that all he did surpass.  But times all mowing sith this flower did cut, fate to his days hath the last period put : for musick and for singing, who but he, was fit to help the Gods with harmony?  His fair Dorinda, seeing he was gone, and she poor mournful damsel left alone, invokes the nymphs to sing his praise, whilst she a garland weaves, then ends her days, resolving not to stay behind her love, she being deny'd him here, mounts above.  To a pleasant new tune, called Amintas farewel, or, Digby's farewel.</title>
+            <author>Pope, Walter, d. 1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660-1675?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09753</idno>
+            <idno type="STC">Wing P2913A</idno>
+            <idno type="STC">ESTC R234216</idno>
+            <idno type="EEBO-CITATION">64551567</idno>
+            <idno type="OCLC">ocm 64551567</idno>
+            <idno type="VID">184705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184705)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The musical shepeherdess, or, Dorinda's lamentation for the loss of Amintas Amintas all Arcadia's glory was, a youth so sweet that all he did surpass.  But times all mowing sith this flower did cut, fate to his days hath the last period put : for musick and for singing, who but he, was fit to help the Gods with harmony?  His fair Dorinda, seeing he was gone, and she poor mournful damsel left alone, invokes the nymphs to sing his praise, whilst she a garland weaves, then ends her days, resolving not to stay behind her love, she being deny'd him here, mounts above.  To a pleasant new tune, called Amintas farewel, or, Digby's farewel.</title>
+                  <author>Pope, Walter, d. 1714.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Hose next the Rose neer Houlbourn Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660-1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end:  W. P.</note>
+                  <note>Attributed to Walter Pope.  Cf. Wing (2nd ed.).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside has faded print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184705:1"/>
+            <pb facs="tcp:184705:2"/>
+            <head>The muſical Shepeherdeſs, or, Dorinda's lamentation for the loſs of Amintas.</head>
+            <argument>
+               <lg>
+                  <l>Amintas all Arcadia's Glory was,</l>
+                  <l>A Youth ſo ſweet that all he did ſurpaſs.</l>
+                  <l>But Times all mowing Sith this flower did cut,</l>
+                  <l>Fate to his days hath the laſt period put:</l>
+                  <l>For muſick, and for ſinging, who but he,</l>
+                  <l>Was fit to help the Gods with harmony?</l>
+                  <l>His fair Dorinda, ſeeing he was gone,</l>
+                  <l>And ſhe poor mournful Damſel left alone,</l>
+                  <l>Invokes the Nymphs to ſing his praiſe,</l>
+                  <l>Whilſt ſhe a Garland weaves, then ends her days,</l>
+                  <l>Reſolving not to ſtay behind her Love,</l>
+                  <l>She being deny'd him here, mounts above.</l>
+               </lg>
+            </argument>
+            <opener>To a pleaſant New Tune, called, Amintas farewel: or, Digbys farewel.</opener>
+            <p>
+               <figure/>
+               <figure/>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>ADieu to the Pleaſures and follies of Love,</l>
+               <l>For a paſſion more noble my fancy doth move,</l>
+               <l>My Shepherd is dead and I live to proclaim,</l>
+               <l>The ſorrowful notes of <hi>Amintas</hi> his name,</l>
+               <l>The Wood-Nymphs reply when they hear me complain</l>
+               <l>Thou never ſhalt ſee thy <hi>Amintas</hi> again,</l>
+               <l>For death hath befriended him,</l>
+               <l>Fate hath defended him,</l>
+               <l>None, none, alive is ſo happy a Swain.</l>
+            </lg>
+            <lg>
+               <l>You Shepherds and Nymphs that have danc'd to his lays</l>
+               <l>Come help me to ſing forth <hi>Amintas</hi> his praiſe,</l>
+               <l>No Swain for the mirtle durſt with him diſpute,</l>
+               <l>So ſweet were his notes whilſt he ſung to his Lute,</l>
+               <l>Then come to his Grave and your kindneſs purſue,</l>
+               <l>To weave him a Garland of Cypreſs and Yew,</l>
+               <l>For life hath forſaken him,</l>
+               <l>Death hath o're<g ref="char:punc">▪</g> taken him,</l>
+               <l>No Swai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> again will be ever ſo true.</l>
+            </lg>
+            <lg>
+               <l>Then leave me alone to my wretched eſtate</l>
+               <l>I loſt him too ſoon, and I lov'd him too late,</l>
+               <l>You ecchees and fountains my witneſſes prove</l>
+               <l>How deeply I ſigh for the loſs of my Love,</l>
+               <l>And now of our Pan whom we chiefly adore</l>
+               <l>This favour <hi>I</hi> never will ceaſe to implore</l>
+               <l>That now I may go above,</l>
+               <l>And here enjoy my Love,</l>
+               <l>And live more happy then ever before.</l>
+            </lg>
+            <lg>
+               <l>But if that old God ſhould my wiſhes deny.</l>
+               <l>My Soul through the clouds to my deareſt ſhall flye</l>
+               <l>So ſwift that his Deity ſhall not reſtrain</l>
+               <l>Me from the delights of ſo happy a Swain,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Petitions to <hi>Venus</hi> ſo fair.</l>
+               <l>To ſecure my flight which I take in the air,</l>
+               <l>Surely <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pitty take,</l>
+               <l>And Lovers happy make,</l>
+               <l>For ſhe her ſelf has been catcht in loves ſnare.</l>
+            </lg>
+            <lg>
+               <l>How pleaſantly did our bleſt time away creep,</l>
+               <l>When <hi>Amintas</hi> and I did together keep Sheep,</l>
+               <l>His muſick and mine did ſo ſweetly agree,</l>
+               <l>When we ſat in the vale under a ſhady tree,</l>
+               <l>The pritty Lambs feeding did to us give ear,</l>
+               <l>And the vainty young kids liv'd ſecure from fear,</l>
+               <l>But now he is dead and gone,</l>
+               <l>And I am left alone,</l>
+               <l>In the Spring time of life he concluded the year.</l>
+            </lg>
+            <lg>
+               <l>Now the flocks do lament that their paſtor is fled,</l>
+               <l>But <hi>I</hi> more am griev'd that <hi>Amintas</hi> is dead,</l>
+               <l>They miſs him all day, but I miſs him at night,</l>
+               <l>To them he gave ſafety, but to me ſweet delight</l>
+               <l>All day free from danger of ravenous beaſt,</l>
+               <l>They fed ſecurely, and at night took their reſt,</l>
+               <l>But I miſs him night and day,</l>
+               <l>Now he is fled away,</l>
+               <l>His lips were to me a continual feaſt.</l>
+            </lg>
+            <lg>
+               <l>You pritty kind Nymphs that have heard of his fame</l>
+               <l>
+                  <hi>I</hi> beg your aſſiſtance to ſound forth his name,</l>
+               <l>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t if there be any that my Shepheard ne'r knew,</l>
+               <l>His <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> i'le draw and preſent to their view,</l>
+               <l>Thou <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or half ſo lively the ſhaddow will be,</l>
+               <l>Ye<g ref="char:punc">▪</g> I <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> twill be pleaſant ſome part for to ſee.</l>
+               <l>
+                  <hi>Apollos</hi> i'le compel,</l>
+               <l>
+                  <hi>To</hi> help me to draw it well,</l>
+               <l>And what there is wanting ſhall be made up inme,</l>
+            </lg>
+            <lg>
+               <l>His cheeks red and white being free from all paint,</l>
+               <l>And his looks ſo divine you would think him a Saint,</l>
+               <l>A language ſo free, and ſo pleaſant a voice,</l>
+               <l>That I thought my ſelf bleſt when I made him my choice<g ref="char:punc">▪</g>
+               </l>
+               <l>When he ſung all the world did admire that ſong,</l>
+               <l>All ſorts for to hear him together did throng,</l>
+               <l>His body ſtrait and tall,</l>
+               <l>VVith ſomething beſt of all,</l>
+               <l>VVhich ſhall be nameleſs for fear you ſhould long<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>His muſick ſo ſweet that it raviſht each Soul,</l>
+               <l>All creatures that heard it his loſs do condole,</l>
+               <l>But I moſt of all do lament for my dear,</l>
+               <l>VVho ne'r can enjoy my ſelf whilſt <hi>I</hi> live here,</l>
+               <l>Two hearts once united by Loves laſting bands,</l>
+               <l>Can ne'r be divided by deaths cruel hands;</l>
+               <l>though he be gone before,</l>
+               <l>he has my heare in ſtore,</l>
+               <l>Hark, Hark, he calls, i<g ref="char:punc">▪</g>le obey his commands<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>I come, oh, I come, my <hi>Amintas,</hi> my love,</l>
+               <l>My body i'le leave here in this pleaſant Grove,</l>
+               <l>This little ſharp knife to my heart I will ſend,</l>
+               <l>To tell it 'tis time to make ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to its friend;</l>
+               <l>Some kind Nymph will bury me when I am dead,</l>
+               <l>And that my true ſoul to my Shepherd is fled;</l>
+               <l>Now all the world adieu,</l>
+               <l>My deareſt i'le purſue,</l>
+               <l>This Garland ſhall crown my <hi>Amintas</hi> his head.</l>
+            </lg>
+            <closer>
+               <signed>W. P.</signed> With Allowance.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Hoſe</hi> next the Roſe neer Houlbourn<g ref="char:punc">▪</g>Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
